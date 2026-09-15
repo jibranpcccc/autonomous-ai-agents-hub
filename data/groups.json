@@ -1,17 +1,17 @@
 [
   {
     "id": "autonomous-ai-agents-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
+    "title": "LangChain Official AI Discord",
     "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "category": "AI Agent Engineering",
+    "memberCount": "140,000+ members",
+    "description": "The official Discord community for LangChain and LangGraph developers building stateful multi-agent systems and cognitive tool chains.",
+    "joinUrl": "https://discord.gg/langchain",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "langchain",
+      "agents",
+      "llm",
+      "discord"
     ],
     "verified": true,
     "featured": true,
